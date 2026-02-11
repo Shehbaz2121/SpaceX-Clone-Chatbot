@@ -2,7 +2,9 @@
 A beginner-friendly web development project that recreates a SpaceX-inspired website using HTML, CSS, and JavaScript. This static site features a responsive design, smooth scrolling sections, and an interactive chatbot for user engagement.
 
 <img width="1286" height="1058" alt="SpaceX clone with chatbot" src="https://github.com/user-attachments/assets/8fd5e36e-c2a3-4930-979a-b1b42691eced" />
-### Chatbot:
+
+###  Chatbot:
+
 <img width="1291" height="1058" alt="working chat bot" src="https://github.com/user-attachments/assets/52335c67-2a99-4efa-b28b-9319c936ca72" />
 
 # Description
