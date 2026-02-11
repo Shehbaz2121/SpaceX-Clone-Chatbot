@@ -1,4 +1,4 @@
-#SpaceX Clone with Chatbot
+# SpaceX Clone with Chatbot
 A beginner-friendly web development project that recreates a SpaceX-inspired website using HTML, CSS, and JavaScript. This static site features a responsive design, smooth scrolling sections, and an interactive chatbot for user engagement.
 
 #Description
